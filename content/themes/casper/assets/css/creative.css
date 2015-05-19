@@ -80,7 +80,6 @@ p {
 }
 
 section {
-    padding: 70px 0;
 }
 
 aside {
@@ -194,7 +193,7 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    text-align: center;
+    text-align: right;
     color: #fff;
     background-image: url(../img/header2.jpg);
     background-position: center;
