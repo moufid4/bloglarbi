@@ -187,12 +187,12 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Droid Arabic Kufi', sans-serif;
     text-rendering: geometricPrecision;
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     letter-spacing: -2px;
     text-indent: -3px;
 }
@@ -702,7 +702,7 @@ body.nav-opened .nav {
 }
 
 .no-cover.main-header {
-    min-height: 60px;
+    min-height: 53px;
     max-height: 0vh;
     background: #000;
     
@@ -1128,7 +1128,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Merriweather", serif;
+    font-family: "Droid Arabic Kufi", serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
@@ -1214,7 +1214,7 @@ body:not(.post-template) .post-title {
     padding: 4px 10px 5px;
     text-transform: uppercase;
     font-size: 1.1rem;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Droid Arabic Kufi', sans-serif;
     color: rgba(255,255,255,0.8);
     border: rgba(255,255,255,0.5) 1px solid;
     border-radius: 4px;
@@ -1386,7 +1386,7 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Droid Arabic Kufi', sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
@@ -1431,9 +1431,8 @@ body:not(.post-template) .post-title {
         -moz-box-sizing: border-box;
         box-sizing: border-box;
         height: auto;
-        min-height: 40px;
         height: 60vh;
-        padding: 15% 0;
+        padding: 15px;
     }
 
     .scroll-down,
@@ -1475,7 +1474,7 @@ body:not(.post-template) .post-title {
     }
 
     h1 {
-        font-size: 4.5rem;
+        font-size: 3rem;
         text-indent: -2px;
     }
 
@@ -1691,7 +1690,7 @@ body:not(.post-template) .post-title {
     }
 
     h1 {
-        font-size: 2.8rem;
+        font-size: 2rem;
         letter-spacing: -1px;
     }
 
